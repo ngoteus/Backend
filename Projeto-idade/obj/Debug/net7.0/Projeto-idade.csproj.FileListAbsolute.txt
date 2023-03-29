@@ -1,0 +1,15 @@
+C:\Users\48527217856\Desktop\Projeto-idade\obj\Debug\net7.0\Projeto-idade.csproj.AssemblyReference.cache
+C:\Users\48527217856\Desktop\Projeto-idade\obj\Debug\net7.0\Projeto-idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48527217856\Desktop\Projeto-idade\obj\Debug\net7.0\Projeto-idade.AssemblyInfoInputs.cache
+C:\Users\48527217856\Desktop\Projeto-idade\obj\Debug\net7.0\Projeto-idade.AssemblyInfo.cs
+C:\Users\48527217856\Desktop\Projeto-idade\obj\Debug\net7.0\Projeto-idade.csproj.CoreCompileInputs.cache
+C:\Users\48527217856\Desktop\Projeto-idade\bin\Debug\net7.0\Projeto-idade.exe
+C:\Users\48527217856\Desktop\Projeto-idade\bin\Debug\net7.0\Projeto-idade.deps.json
+C:\Users\48527217856\Desktop\Projeto-idade\bin\Debug\net7.0\Projeto-idade.runtimeconfig.json
+C:\Users\48527217856\Desktop\Projeto-idade\bin\Debug\net7.0\Projeto-idade.dll
+C:\Users\48527217856\Desktop\Projeto-idade\bin\Debug\net7.0\Projeto-idade.pdb
+C:\Users\48527217856\Desktop\Projeto-idade\obj\Debug\net7.0\Projeto-idade.dll
+C:\Users\48527217856\Desktop\Projeto-idade\obj\Debug\net7.0\refint\Projeto-idade.dll
+C:\Users\48527217856\Desktop\Projeto-idade\obj\Debug\net7.0\Projeto-idade.pdb
+C:\Users\48527217856\Desktop\Projeto-idade\obj\Debug\net7.0\Projeto-idade.genruntimeconfig.cache
+C:\Users\48527217856\Desktop\Projeto-idade\obj\Debug\net7.0\ref\Projeto-idade.dll
